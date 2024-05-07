@@ -1,0 +1,9 @@
+librosa
+matplotlib
+numpy
+scikit-learn
+speechbrain
+torch
+torchaudio
+tqdm
+tensorboardX
