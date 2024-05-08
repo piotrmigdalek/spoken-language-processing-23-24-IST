@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+slp-lab2/ets_data/*
+my_env/*
+
 # C extensions
 *.so
 
