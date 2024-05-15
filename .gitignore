@@ -5,6 +5,7 @@ __pycache__/
 
 slp-lab2/ets_data/*
 my_env/*
+s3prl/*
 
 # C extensions
 *.so
