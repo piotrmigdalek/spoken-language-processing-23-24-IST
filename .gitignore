@@ -6,6 +6,8 @@ __pycache__/
 slp-lab2/ets_data/*
 my_env/*
 s3prl/*
+slp-lab2/tmp/*
+train_0005.wav
 
 # C extensions
 *.so
