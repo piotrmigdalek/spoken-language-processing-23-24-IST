@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+slp-lab2/s3prl/*
 slp-lab2/ets_data/*
 my_env/*
 s3prl/*
